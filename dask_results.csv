@@ -1,0 +1,2 @@
+method,file_size_GB,rows_processed,partitions,block_size,mean_temperature,mean_humidity,execution_time_seconds,ram_before_MB,ram_after_MB,peak_ram_observed_MB
+Dask,6.009,49300000,187,32MB,26.99975,59.496,111.52687590010464,121.35546875,141.796875,327.0234375

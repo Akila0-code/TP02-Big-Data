@@ -1,0 +1,2 @@
+method,file_size_GB,rows_processed,chunks,chunk_size,mean_temperature,mean_humidity,execution_time_seconds,ram_before_MB,ram_after_MB,peak_ram_observed_MB
+Pandas Chunking,6.009,49300000,493,100000,26.99975,59.496,115.40781300002709,74.1875,76.90625,78.27734375
